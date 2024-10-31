@@ -1,6 +1,10 @@
 #Date: 11/03/2024
 #Names: Lucia Maturino Iniguez and Roman Sailes
 #Program 1: Getting Familiar with Assembly
+# Goals:
+# 1) Get 2 integers from user and print both numbers.
+# 2) Perform arithmetic operations from user-given integers.
+# 3) Print whether user inputs from first task are equal or not.
 
 .data
 #Task 1
